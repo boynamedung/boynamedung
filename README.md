@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boynamedung
-- 👀 I’m interested in Embededed Programming
+- 👀 I’m interested in Embedded Programming
 - 🌱 I’m currently learning Computer Vision and Deep Learning
 
 <!---
