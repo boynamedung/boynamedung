@@ -1,7 +1,3 @@
-### 👋 Hi, I’m @boynamedung
-- 👀 I’m interested in Embedded Programming
-- 🌱 I’m currently learning Computer Vision and Deep Learning
-
                                                                 _ooOoo_
                                                                o8888888o
                                                                88" . "88
@@ -19,7 +15,9 @@
                                                   | | :  `- \`. ;`. _/; .'/ /  .' ; |
                                                   \  \ `-.   \_\_`. _.'_/_/  -' _.' /
                                         ===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
-                                                                `=--=-'                                    
+                                                                `=--=-'              
+                                                      佛祖保佑           永无BUG
+                                                     God Bless        Never Crash
 <!---
 boynamedung/boynamedung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
