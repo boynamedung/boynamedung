@@ -16,7 +16,7 @@
                                                   \  \ `-.   \_\_`. _.'_/_/  -' _.' /
                                                    `-.`___`-.__\ \___  /__.-'_.'_.-'
                                                                 `=--=-'              
-                                                      佛祖保佑           永无BUG
+                                                      佛祖保佑          永不崩溃
                                                      God Bless        Never Crash
 <!---
 boynamedung/boynamedung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
